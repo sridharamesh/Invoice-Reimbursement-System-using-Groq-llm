@@ -1,0 +1,32 @@
+# FastAPI backend
+fastapi
+uvicorn
+
+# PDF and ZIP handling
+PyMuPDF  # for PDF parsing (fitz)
+pdfplumber
+python-multipart
+pypdf
+zipfile36
+
+# LLMs and embeddings
+openai
+sentence-transformers
+
+# Vector store (e.g., Chroma)
+chromadb
+
+# Streamlit UI
+streamlit
+requests
+
+# Dev + Parsing
+pydantic
+tqdm
+
+# Optional: LangChain (if using)
+langchain
+
+# Optional: Open-source LLMs (if using HuggingFace models)
+transformers
+torch
